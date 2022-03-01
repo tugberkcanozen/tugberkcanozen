@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Swift**
 
-- 🤝 I’m looking for help with [SWIFT-IOS Dev.Self Learner(TR)](https://bit.ly/3rh8iHT)
+- 🤝 I’m looking for help with [Swift Akademi](https://t.me/swiftakademi)
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/3u8ycPS](https://bit.ly/3u8ycPS)
 
